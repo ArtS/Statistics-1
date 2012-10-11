@@ -13,7 +13,7 @@ cor(des)
 #
 #    Verbal working memory, des condition = 0.92869647
 #    Spatial working memory, des condition = 0.5401403
-#[x] Spatial working memory, aer condition = 0.44859589
+#    Spatial working memory, aer condition = 0.44859589
 #    Verbal working memory, aer condition = 0.924055450
 
 
@@ -23,13 +23,13 @@ cor(des)
 # Spatial working memory, aer condition = 0.448595886
 # Verbal working memory, aer condition = 0.924055450
 # Spatial working memory, des condition = 0.5401403
-# [x] Verbal working memory, des condition. pre.wm.v1~pre.wm.v2 = 0.92869647
+# Verbal working memory, des condition. pre.wm.v1~pre.wm.v2 = 0.92869647
 
 
 # Question 3
 # In the aer condition, which individual measure displayed the highest correlation 
 # between pre and post training?
-# [x] wm.v2 = 0.93091709
+# wm.v2 = 0.93091709
 # wm.s1 = 0.661405034
 # wm.s2 = 0.68329378
 # wm.v1 = 0.694754675
@@ -38,7 +38,7 @@ cor(des)
 # Question 4
 # In the des condition, which individual measure displayed the highest c
 # orrelation between pre and post training?
-# [x] wm.v2 = 0.92462271
+# wm.v2 = 0.92462271
 # wm.s1 = 0.6277946
 # wm.v1 = 0.74164780
 # wm.s2 = 0.6336110
